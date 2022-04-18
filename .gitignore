@@ -1,0 +1,12 @@
+/auto_action.bat
+/utils/get_list.py
+venv/
+/.idea
+__pycache__
+# Project exclude paths
+/.gradle/
+/build
+/.idea
+/out
+speedtest.txt
+pools

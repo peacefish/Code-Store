@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "remarks": "bpjzx",
+    "site": "https://paste.in/",
+    "url": "https://paste.in/raw/bpjzx1",
+    "enabled": true
+  },
+  {
+    "id": 1,
+    "remarks": "chfchf0306",
+    "site": "https://github.com/chfchf0306/clash",
+    "url": "https://raw.githubusercontent.com/chfchf0306/clash/main/clash",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "remarks": "Jsnzkpg/Jsnzkpg",
+    "site": "https://github.com/Jsnzkpg/Jsnzkpg",
+    "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "remarks": "Others",
+    "site": "https://github.com",
+    "url": "https://mkkhack.pw/ssr.php|https://raw.githubusercontent.com/ChenYixuan-gihub/Chen-Yixuan-s-subscription/main/avicii|https://raw.githubusercontent.com/GreenFishStudio/GreenFish/master/Subscription/Clash/GreenFishYYDS",
+    "enabled": true
+  }
+]
