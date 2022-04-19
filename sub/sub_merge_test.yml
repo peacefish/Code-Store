@@ -1,5 +1,0 @@
-proxies:
-  - {name: "[TR_CN][🇨🇳_116.129.253.245]", server: 116.129.253.245, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
-  - {name: "[TR_CN][🇨🇳_116.129.253.227]", server: 116.129.253.227, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
-  - {name: "[TR_KR][🇰🇷_144.24.92.70]", server: jgwcc3.gaox.ml, port: 443, type: trojan, password: b291d129-ee55-4801-a9b8-b5316e5c37b7, skip-cert-verify: true, udp: true}
-  - {name: "[TR_TW][🇹🇼_60.249.3.125]", server: 60.249.3.125, port: 3389, type: trojan, password: a170b44c2dfac9e6, skip-cert-verify: true, udp: true}
