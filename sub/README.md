@@ -3,6 +3,19 @@
 - [Jsnzkpg](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg)
 - [sub_list.json from openit](https://raw.githubusercontent.com/yu-steven/openit/main/sub/sub_list.json)
 
+```
+nodesCatch测速出现未授权
+因为nodesCatch没有单独指定clash的配置路径，导致和CFW共用
+又因为最新版CFW0.19.12新增了生成secret密码，而nodesCatch默认secret为空就导致了未授权的情况
+
+所以使用最新版CFW的用户在测速会出现未授权的情况。
+解决方法：打开CFW主界面->打开Home Directory->用文本编辑器打开config.yaml->将secret那行删掉
+
+PS: secret为空最极端的情况会导致配置信息被篡改，并不会导致节点信息被泄露
+```
+
+
+
 ## 客户端选择
 ### 主流桌面客户端
 |                            MacOS                             |                            Linux                             |                           Windows                            | 简易描述                                           |
