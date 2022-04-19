@@ -1,9 +1,9 @@
 [
   {
     "id": 0,
-    "remarks": "bpjzx",
-    "site": "https://paste.in/",
-    "url": "https://paste.in/raw/bpjzx1",
+    "remarks": "yu-steven/openit",
+    "site": "https://github.com/yu-steven/openit",
+    "url": "https://raw.githubusercontent.com/yu-steven/openit/main/sub/nodes.yaml",
     "enabled": true
   },
   {
@@ -24,7 +24,7 @@
     "id": 3,
     "remarks": "Others",
     "site": "https://github.com",
-    "url": "https://mkkhack.pw/ssr.php|https://raw.githubusercontent.com/ChenYixuan-gihub/Chen-Yixuan-s-subscription/main/avicii|https://raw.githubusercontent.com/GreenFishStudio/GreenFish/master/Subscription/Clash/GreenFishYYDS",
+    "url": "https://paste.in/raw/bpjzx1|https://mkkhack.pw/ssr.php|https://raw.githubusercontent.com/ChenYixuan-gihub/Chen-Yixuan-s-subscription/main/avicii|https://raw.githubusercontent.com/GreenFishStudio/GreenFish/master/Subscription/Clash/GreenFishYYDS",
     "enabled": true
   }
 ]

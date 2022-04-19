@@ -28,18 +28,18 @@
 >
 > 4.[SpeedTest](https://www.speedtest.net/)
 ### 所有节点
-合并节点总数: `539`
+合并节点总数: `745`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge.txt)
 
 ### 格式化节点
-合并节点总数: `144`
+合并节点总数: `746`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge_yaml.yml)
 
 ### 节点来源
-- [bpjzx](https://paste.in/), 节点数量: `28`
+- [yu-steven/openit](https://github.com/yu-steven/openit), 节点数量: `206`
 - [chfchf0306](https://github.com/chfchf0306/clash), 节点数量: `156`
 - [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), 节点数量: `193`
-- [Others](https://github.com), 节点数量: `162`
+- [Others](https://github.com), 节点数量: `190`
 
 ## 仓库声明
 订阅节点仅作学习交流使用，只是对网络上节点的优选排序，用于查找资料，学习知识，不做任何违法行为。所有资源均来自互联网，仅供大家交流学习使用，出现违法问题概不负责。
