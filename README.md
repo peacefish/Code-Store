@@ -28,15 +28,15 @@
 >
 > 4.[SpeedTest](https://www.speedtest.net/)
 ### 所有节点
-合并节点总数: `509`
+合并节点总数: `524`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge.txt)
 
 ### 格式化节点
-合并节点总数: `140`
+合并节点总数: `139`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge_yaml.yml)
 
 ### 节点来源
-- [bpjzx](https://paste.in/), 节点数量: `13`
+- [bpjzx](https://paste.in/), 节点数量: `28`
 - [chfchf0306](https://github.com/chfchf0306/clash), 节点数量: `156`
 - [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), 节点数量: `178`
 - [Others](https://github.com), 节点数量: `162`
