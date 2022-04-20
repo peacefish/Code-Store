@@ -21,15 +21,6 @@ sub_list_path = './sub/list/'
 
 
 class sub_merge:
-    def list_update(url):
-        print('Downloading sub_list.json...')
-        try:
-            request.urlretrieve(url, './sub/sub_list.json')
-            print('Success!\n')
-        except Exception:
-            print('Failed!\n')
-            pass
-
     def sub_merge(url_list):  # 将转换后的所有 Url 链接内容合并转换 YAML or Base64, ，并输出文件，输入订阅列表。
 
         content_list = []
@@ -208,9 +199,6 @@ class sub_merge:
 
 
 if __name__ == '__main__':
-    sub_merge.list_update(
-        'https://raw.githubusercontent.com/666greatChina888/Code-Store/master/Sub-Pool/config/sub_list.json'
-    )
     sub_merge.geoip_update(
         'https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb'
     )
