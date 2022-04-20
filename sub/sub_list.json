@@ -8,9 +8,37 @@
   },
   {
     "id": 1,
+    "remarks": "chfchf0306/clash",
+    "site": "https://github.com/chfchf0306/clash",
+    "url": "https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "remarks": "learnhard-cn/free_proxy_ss",
+    "site": "https://github.com/learnhard-cn/free_proxy_ss",
+    "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "remarks": "GreenFishStudio/GreenFish",
+    "site": "https://github.com/GreenFishStudio/GreenFish",
+    "url": "https://raw.githubusercontent.com/GreenFishStudio/GreenFish/master/Subscription/GreenFishYYDS",
+    "enabled": true
+  },
+  {
+    "id": 4,
     "remarks": "alanbobs999/TopFreeProxies",
     "site": "https://github.com/alanbobs999/TopFreeProxies",
-    "url": "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt",
+    "url": "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity",
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "remarks": "Jsnzkpg/Jsnzkpg",
+    "site": "https://github.com/Jsnzkpg/Jsnzkpg",
+    "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
     "enabled": true
   }
 ]
