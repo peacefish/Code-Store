@@ -3,7 +3,7 @@
     "id": 0,
     "remarks": "learnhard-cn/free_proxy_ss",
     "site": "https://github.com/learnhard-cn/free_proxy_ss",
-    "url": "https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Flearnhard-cn%2Ffree_proxy_ss%2Fmain%2Fclash%2Fconfig.yaml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMeilieage%2Fwebcdn%2Fmain%2Frule%2FArea_Media_NoAuto.ini&exclude=%E8%A2%AB%E5%A2%99&include=%E7%9B%B4%E8%BF%9E&emoji=false&list=true&udp=false&tfo=false&expand=true&scv=true&fdn=true&sort=true&new_name=true",
+    "url": "https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Flearnhard-cn%2Ffree_proxy_ss%2Fmain%2Fclash%2Fconfig.yaml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMeilieage%2Fwebcdn%2Fmain%2Frule%2FArea_Media_NoAuto.ini&exclude=%E8%A2%AB%E5%A2%99&include=%E7%9B%B4%E8%BF%9E&emoji=true&list=true&udp=false&tfo=false&expand=true&scv=true&fdn=true&sort=true&new_name=true",
     "enabled": true
   },
   {
