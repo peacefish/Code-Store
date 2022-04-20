@@ -1,16 +1,30 @@
 [
   {
     "id": 0,
-    "remarks": "anaer/sub",
-    "site": "https://github.com/anaer/sub",
-    "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
+    "remarks": "@ssrtelegram",
+    "site": "https://t.me/ssrtelegram",
+    "url": "https://paste.in/raw/8j7QWX",
     "enabled": true
   },
   {
-    "id": 1,
-    "remarks": "alanbobs999/TopFreeProxies",
-    "site": "https://github.com/alanbobs999/TopFreeProxies",
-    "url": "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yml",
+    "id": 2,
+    "remarks": "@bpjzx",
+    "site": "https://t.me/bpjzx1",
+    "url": "https://paste.in/raw/bpjzx1|https://paste.in/raw/bpjzx2|https://paste.in/download/bpjzx2|https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "remarks": "Jsnzkpg/Jsnzkpg",
+    "site": "https://github.com/Jsnzkpg/Jsnzkpg",
+    "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "remarks": "chfchf0306/clash",
+    "site": "https://github.com/chfchf0306/clash",
+    "url": "https://raw.githubusercontent.com/chfchf0306/clash/main/clash",
     "enabled": true
   }
 ]
