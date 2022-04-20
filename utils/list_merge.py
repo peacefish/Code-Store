@@ -66,7 +66,7 @@ class sub_merge:
             content_raw,
             'content',
             'YAML',
-            {'dup_rm_enabled': True, 'format_name_enabled': True, 'speedtest': False},
+            {'dup_rm_enabled': True, 'format_name_enabled': True, 'speedtest': True},
         )
         content = content_raw
 
