@@ -1,30 +1,23 @@
 [
   {
     "id": 0,
-    "remarks": "changfengoss",
-    "site": "https://github.com/changfengoss",
-    "url": "https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/cfmem.yaml",
+    "remarks": "learnhard-cn/free_proxy_ss",
+    "site": "https://github.com/learnhard-cn/free_proxy_ss",
+    "url": "https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Flearnhard-cn%2Ffree_proxy_ss%2Fmain%2Fclash%2Fconfig.yaml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMeilieage%2Fwebcdn%2Fmain%2Frule%2FArea_Media_NoAuto.ini&exclude=%E8%A2%AB%E5%A2%99&include=%E7%9B%B4%E8%BF%9E&emoji=false&list=true&udp=false&tfo=false&expand=true&scv=true&fdn=true&sort=true&new_name=true",
     "enabled": true
   },
   {
-    "id": 2,
-    "remarks": "learnhard-cn/free_proxy_ss",
-    "site": "https://github.com/learnhard-cn/free_proxy_ss",
-    "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml",
+    "id": 1,
+    "remarks": "anaer/sub",
+    "site": "https://github.com/anaer/sub",
+    "url": "https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fanaer%2FSub%2Fmain%2Fclash.yaml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMeilieage%2Fwebcdn%2Fmain%2Frule%2FArea_Media_NoAuto.ini&emoji=false&list=true&udp=false&tfo=false&expand=true&scv=true&fdn=true&sort=true&new_name=true",
     "enabled": true
   },
   {
     "id": 3,
-    "remarks": "GreenFishStudio/GreenFish",
-    "site": "https://github.com/GreenFishStudio/GreenFish",
-    "url": "https://raw.githubusercontent.com/GreenFishStudio/GreenFish/master/Subscription/GreenFishYYDS",
-    "enabled": true
-  },
-  {
-    "id": 4,
     "remarks": "alanbobs999/TopFreeProxies",
     "site": "https://github.com/alanbobs999/TopFreeProxies",
-    "url": "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity",
+    "url": "https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Falanbobs999%2FTopFreeProxies%2Fmain%2FEternity&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMeilieage%2Fwebcdn%2Fmain%2Frule%2FArea_Media_NoAuto.ini&emoji=false&list=true&udp=false&tfo=false&expand=true&scv=true&fdn=true&sort=true&new_name=true",
     "enabled": true
   }
 ]
