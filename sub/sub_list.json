@@ -1,16 +1,9 @@
 [
   {
     "id": 0,
-    "remarks": "yu-steven/openit",
-    "site": "https://github.com/yu-steven/openit",
-    "url": "https://raw.githubusercontent.com/yu-steven/openit/main/sub/nodes.yaml",
-    "enabled": true
-  },
-  {
-    "id": 1,
-    "remarks": "chfchf0306/clash",
-    "site": "https://github.com/chfchf0306/clash",
-    "url": "https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18",
+    "remarks": "changfengoss",
+    "site": "https://github.com/changfengoss",
+    "url": "https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/cfmem.yaml",
     "enabled": true
   },
   {
@@ -32,13 +25,6 @@
     "remarks": "alanbobs999/TopFreeProxies",
     "site": "https://github.com/alanbobs999/TopFreeProxies",
     "url": "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity",
-    "enabled": true
-  },
-  {
-    "id": 5,
-    "remarks": "Jsnzkpg/Jsnzkpg",
-    "site": "https://github.com/Jsnzkpg/Jsnzkpg",
-    "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
     "enabled": true
   }
 ]
