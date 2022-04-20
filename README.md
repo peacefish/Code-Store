@@ -1,8 +1,6 @@
 # **Code-Store**
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/666greatchina888/code-store/Merge_Max?label=Merge_Max)](https://github.com/666greatChina888/Code-Store/actions/workflows/Merge_Max.yaml) 
-
-![Watchers](https://img.shields.io/github/watchers/666greatChina888/Code-Store) ![Stars](https://img.shields.io/github/stars/666greatChina888/Code-Store) ![Forks](https://img.shields.io/github/forks/666greatChina888/Code-Store) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=666greatChina888.Code-Store)
+[![Merge_Max](https://github.com/666greatChina888/Code-Store/actions/workflows/Merge_Max.yaml/badge.svg)](https://github.com/666greatChina888/Code-Store/actions/workflows/Merge_Max.yaml)
 
 [使用方法](https://github.com/666greatChina888/Code-Store#使用方法) | [节点信息](https://github.com/666greatChina888/Code-Store#节点信息) | [仓库声明](https://github.com/666greatChina888/Code-Store#仓库声明)
 
