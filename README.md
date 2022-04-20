@@ -26,17 +26,15 @@
 >
 > 4.[SpeedTest](https://www.speedtest.net/)
 ### 所有节点
-合并节点总数: `265`
+合并节点总数: `263`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge.txt)
 
 ### 格式化节点
-合并节点总数: `149`
+合并节点总数: `202`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge_yaml.yml)
 
 ### 节点来源
-- [changfengoss](https://github.com/changfengoss), 节点数量: `20`
-- [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), 节点数量: `94`
-- [GreenFishStudio/GreenFish](https://github.com/GreenFishStudio/GreenFish), 节点数量: `32`
+- [anaer/sub](https://github.com/anaer/sub), 节点数量: `144`
 - [alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies), 节点数量: `119`
 
 ## 仓库声明
